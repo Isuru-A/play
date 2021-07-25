@@ -1,2 +1,2 @@
-# play
-Nonverse Minecraft server network
+# Nonverse Network
+To report an issue click [here](https://github.com/nonverse/play/issues)
