@@ -1,7 +1,12 @@
 # Nonverse Network
 To report an issue click [**here**](https://github.com/nonverse/play/issues/new/choose)
 
-You must be already registered via the [**Nonverse Members App**](https://my.nonverse.net) to play on Nonverse Minecraft servers.
+### **SERVER QUEUE WORKER IS CURRENTLY PAUSED**
+- Daily backups will not take place
+- Server restarts will not take place so some lag is to be expected
+- Core protect data will not be purged at the end of the week
+
+### **You must be already registered via the [Nonverse Members App](https://my.nonverse.net) to play on Nonverse Minecraft servers.**
 
 Once you have successfully registered and linked your minecraft profile you will be required to login each time you commence a new session.
 
